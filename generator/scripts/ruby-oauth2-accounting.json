@@ -1,0 +1,13 @@
+{
+  "gemName": "xero-ruby",
+  "moduleName": "XeroRuby",
+  "gemVersion": "1.0.1",
+  "gitRepoId": "xero-ruby",
+  "gitUserId": "Xero API",
+  "gemHomepage": "https://developer.xero.com",
+  "gemAuthorEmail": "api@xero.com",
+  "gemAuthor": "Xero Developer Evangelist Team",
+  "appDescriptionWithNewLines": {
+    "appDescriptionWithNewLines": "just a little description"
+  }
+}
